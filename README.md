@@ -1,2 +1,2 @@
 # test
-Test from git
+Test pull
